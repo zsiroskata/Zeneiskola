@@ -1,0 +1,34 @@
+﻿<Window x:Class="Zeneiskola.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zeneiskola"
+        mc:Ignorable="d"
+        Title="Hangverseny" Height="955" Width="1097">
+    <Grid>
+        <Label Content="Zenei darabok" HorizontalAlignment="Left" Height="46" Margin="32,10,0,0" VerticalAlignment="Top" Width="130" FontWeight="Bold" FontSize="14"/>
+        <ListBox x:Name="cim" HorizontalAlignment="Left" Height="134" Margin="32,33,0,0" VerticalAlignment="Top" Width="472" />
+        <Label Content="Zeneszerzők" HorizontalAlignment="Left" Height="46" Margin="32,183,0,0" VerticalAlignment="Top" Width="130" FontWeight="Bold" FontSize="14"/>
+        <ListBox x:Name="szerzo" HorizontalAlignment="Left" Height="134" Margin="32,206,0,0" VerticalAlignment="Top" Width="472"/>
+        <Label Content="Darabok keletkezése" HorizontalAlignment="Left" Height="46" Margin="32,345,0,0" VerticalAlignment="Top" Width="174" FontWeight="Bold" FontSize="14"/>
+        <Button Content="Számolás" HorizontalAlignment="Left" Height="38" Margin="65,391,0,0" VerticalAlignment="Top" Width="444" FontSize="14" Click="Button_Click"/>
+        <TextBlock x:Name="harmadikF" HorizontalAlignment="Left" Height="32" Margin="80,438,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="434"/>
+        <TextBlock x:Name="negyedikF" HorizontalAlignment="Left" Height="36" Margin="85,536,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="434"/>
+        <Label Content="10-es nehézségű komolyzenei darabok száma" HorizontalAlignment="Left" Height="46" Margin="32,470,0,0" VerticalAlignment="Top" Width="174" FontWeight="Bold" FontSize="14"/>
+        <Button x:Name="negyedikB" Content="Számolás" HorizontalAlignment="Left" Height="38" Margin="75,493,0,0" VerticalAlignment="Top" Width="444" FontSize="14" Click="negyedikB_Click" />
+        <Label Content="Debussy darbajainak száma" HorizontalAlignment="Left" Height="46" Margin="32,572,0,0" VerticalAlignment="Top" Width="214" FontWeight="Bold" FontSize="14" RenderTransformOrigin="0.487,0.506"/>
+        <Button x:Name="otodikB" Content="Számolás" HorizontalAlignment="Left" Height="38" Margin="75,595,0,0" VerticalAlignment="Top" Width="444" FontSize="14" Click="otodikB_Click" />
+        <TextBlock x:Name="otodikF" HorizontalAlignment="Left" Height="36" Margin="80,638,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="434"/>
+        <Label Content="Választott darabok" HorizontalAlignment="Left" Height="46" Margin="32,663,0,0" VerticalAlignment="Top" Width="214" FontWeight="Bold" FontSize="14"/>
+        <Button x:Name="General" Content="Generálás" HorizontalAlignment="Left" Height="38" Margin="75,690,0,0" VerticalAlignment="Top" Width="444" FontSize="14" Click="General_Click"  />
+        <Label Content="Keresés" HorizontalAlignment="Left" Height="46" Margin="584,36,0,0" VerticalAlignment="Top" Width="214" FontWeight="Bold" FontSize="14"/>
+        <Button x:Name="keres" Content="Keresés" HorizontalAlignment="Left" Height="38" Margin="584,100,0,0" VerticalAlignment="Top" Width="444" FontSize="14" Click="keres_Click"   />
+        <TextBox x:Name="hetedikTxtbox" HorizontalAlignment="Left" Height="45" Margin="716,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="210"/>
+        <ListBox x:Name="hetedikListBox" HorizontalAlignment="Left" Height="134" Margin="585,143,0,0" VerticalAlignment="Top" Width="472"/>
+        <Label x:Name="hetedikLabel" Content="" HorizontalAlignment="Left" Height="41" Margin="585,299,0,0" VerticalAlignment="Top" Width="472"/>
+        <TextBlock x:Name="nehezsegTxtBlock" HorizontalAlignment="Left" Height="60" Margin="618,482,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="342"/>
+        <TextBox x:Name="evTxtbox" HorizontalAlignment="Left" Height="41" Margin="664,350,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="314"/>
+        <Button x:Name="valasz" Content="Válasz kérdése" HorizontalAlignment="Left" Height="41" Margin="618,429,0,0" VerticalAlignment="Top" Width="410" Click="valasz_Click"/>
+    </Grid>
+</Window>

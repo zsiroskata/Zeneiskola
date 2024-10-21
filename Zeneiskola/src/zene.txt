@@ -1,0 +1,50 @@
+Für Elise;1810;5;Ludwig van Beethoven
+The Four Seasons: Spring;1723;7;Antonio Vivaldi
+Clair de Lune;1905;6;Claude Debussy
+Eine kleine Nachtmusik;1787;4;Wolfgang Amadeus Mozart
+Moonlight Sonata;1801;8;Ludwig van Beethoven
+Toccata and Fugue in D minor;1704;9;Johann Sebastian Bach
+Hungarian Rhapsody No. 2;1847;8;Franz Liszt
+Piano Concerto No. 1;1875;10;Pyotr Ilyich Tchaikovsky
+Canon in D;1680;3;Johann Pachelbel
+Symphony No. 5;1804;7;Ludwig van Beethoven
+The Blue Danube;1867;4;Johann Strauss II
+Swan Lake;1876;8;Pyotr Ilyich Tchaikovsky
+Symphony No. 9;1824;10;Ludwig van Beethoven
+Carmen Suite No. 1;1875;6;Georges Bizet
+Rhapsody in Blue;1924;9;George Gershwin
+Adagio for Strings;1938;5;Samuel Barber
+Gymnopédies;1888;3;Erik Satie
+Flight of the Bumblebee;1899;7;Nikolai Rimsky-Korsakov
+Symphony No. 6;1883;9;Pyotr Ilyich Tchaikovsky
+Peer Gynt: Morning Mood;1875;4;Edvard Grieg
+William Tell Overture;1829;8;Gioachino Rossini
+The Planets: Jupiter;1916;6;Gustav Holst
+Liebesträume No. 3;1850;7;Franz Liszt
+Boléro;1928;5;Maurice Ravel
+Carmen: Habanera;1875;4;Georges Bizet
+Rite of Spring;1913;10;Igor Stravinsky
+Symphony No. 7;1812;7;Ludwig van Beethoven
+Symphony No. 8;1822;8;Franz Schubert
+Requiem;1791;9;Wolfgang Amadeus Mozart
+Piano Concerto No. 21;1785;7;Wolfgang Amadeus Mozart
+The Nutcracker: Dance of the Sugar Plum Fairy;1892;5;Pyotr Ilyich Tchaikovsky
+Water Music;1717;6;George Frideric Handel
+Fantaisie-Impromptu;1834;8;Frédéric Chopin
+Peer Gynt: In the Hall of the Mountain King;1875;4;Edvard Grieg
+Eine kleine Nachtmusik: Romanze;1787;6;Wolfgang Amadeus Mozart
+Carmen Suite No. 2;1875;7;Georges Bizet
+L'Arlésienne Suite No. 2;1872;5;Georges Bizet
+Symphony No. 40;1788;8;Wolfgang Amadeus Mozart
+Cavalleria rusticana: Intermezzo;1890;3;Pietro Mascagni
+Egmont Overture;1810;6;Ludwig van Beethoven
+Symphony No. 4;1878;9;Pyotr Ilyich Tchaikovsky
+Carnival of the Animals: The Swan;1886;3;Camille Saint-Saëns
+The Magic Flute: Queen of the Night Aria;1791;10;Wolfgang Amadeus Mozart
+Symphony No. 3;1883;8;Johannes Brahms
+The Moldau;1874;7;Bedřich Smetana
+Symphony No. 2;1802;6;Ludwig van Beethoven
+Brandenburg Concerto No. 3;1721;8;Johann Sebastian Bach
+Finlandia;1899;7;Jean Sibelius
+Danza Española No. 5;1890;6;Enrique Granados
+Symphony No. 10;1823;9;Franz Schubert
